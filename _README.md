@@ -17,5 +17,8 @@ This includes 6 small practices in DS&ML, and one funny code I use to learn Engl
 
 **#file5**: KNN for toxic mushroom prediction
 
+Some additional information about my learning now:
 
+Right now I am testing some of the Neural Network algorithms I have just learnt from VietAI, including CNN and RNN. VietAI is a course taught student build model by rebuild it by algorithms (not imported libraries). But unfortunately I consider myself not clearly understand those algorithms enough to put it here that I should spend time to learn more. And I am trying to comprehense it via Mr.Andrew Ng's epic course Coursera Machine Learning.
 
+I hope that those simple assignments I uploaded in here can help you understand more about my learning situation now and get deeper understanding abotu myself
