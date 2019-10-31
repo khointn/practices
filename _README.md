@@ -3,18 +3,19 @@ Introduction: This is my assignments and practices on purpose of taking a step i
 
 This includes 6 small practices in DS&ML, and one funny code I use to learn English (but it was a little bit fail haha).
 
-Brief:
-#file0: English funny code (you can skip this haha)
+**Brief:
 
-#file1: Simple analyzed a dataset of Terorrism without any agorithm inside, just analyzed and visualized
+**#file0**: English funny code (you can skip this haha)
 
-#file2: Linear regression for admission prediction. In this I used 3 methods: Libraries imported (sklearn), normal equation, and gradient descent
+**#file1**: Simple analyzed a dataset of Terorrism without any agorithm inside, just analyzed and visualized
 
-#file3: Logistic regression for famous dataset Titanic. This use 2 method: Sklearn & gradient descent.
+**#file2**: Linear regression for admission prediction. In this I used 3 methods: Libraries imported (sklearn), normal equation, and gradient descent
 
-#file4: Using Bag of words method for sentimental analysis using 1,600,000 lines of Twitter tweet (source Kaggle)
+**#file3**: Logistic regression for famous dataset Titanic. This use 2 method: Sklearn & gradient descent.
 
-#file5: KNN for toxic mushroom prediction
+**#file4**: Using Bag of words method for sentimental analysis using 1,600,000 lines of Twitter tweet (source Kaggle)
+
+**#file5**: KNN for toxic mushroom prediction
 
 
 
