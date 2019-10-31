@@ -13,9 +13,11 @@ This includes 6 small practices in DS&ML, and one funny code I use to learn Engl
 
 **#file3**: Logistic regression for famous dataset Titanic. This use 2 method: Sklearn & gradient descent.
 
-**#file4**: Using Bag of words method for sentimental analysis using 1,600,000 lines of Twitter tweet (source Kaggle)
+**#file4**: Using Bag of words method for sentimental analysis. The dataset has 1,600,000 lines of Twitter tweet (source Kaggle)
 
 **#file5**: KNN for toxic mushroom prediction
+
+**file6**: Hand-digits (MNIST) detection using Decision Tree, Random Forest, and Logistic Regression
 
 Some additional information about my learning now:
 
