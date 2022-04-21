@@ -1,13 +1,14 @@
-# CECS1020 Final Project - Titanic Prediction
+# CECS1020 Final Project - Titanic Prediction (Top 5% Kaggle)
 
 ## Introduction
 
-This is the Group project for CECS1020 class - Introduction to Machine Learning of VinUniversity. We are group 6:
+This is the Group project for First-Year CECS1020 class - Introduction to Machine Learning of VinUniversity. We are group 6:
 
 * Nguyen Tiet Nguyen Khoi
 * Nguyen Duong Tung
 * Nguyen Hoang Trung Dung
 
+Though the Titanic problem is a newbie practice in ML, we try our best to do some preprocessing & normalizing techniques to make our work to have higher quality than just importing the dataset and run some regression. 
 
 This zip folder includes:
 * Final report (using Latex)
