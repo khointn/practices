@@ -1,4 +1,4 @@
-# CECS1020 Final Project - Titanic Prediction
+# CECS1020 Final Project - Titanic Prediction (Top 5% Kaggle)
 
 ## Introduction
 
